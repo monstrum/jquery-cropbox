@@ -1,0 +1,17 @@
+{
+  "name": "monstrum/cropbox",
+  "description": "Image Editor in standard jQuery plugin Structure. Fork from https://github.com/acornejo/jquery-cropbox",
+  "homepage": "https://github.com/monstrum/jquery-cropbox",
+  "keywords": [
+    "image drag and crop",
+    "crop",
+    "zoom and crop",
+    "thumbnail"
+  ],
+  "authors": [{
+    "name": "Alex Cornejo",
+    "homepage": "https://github.com/acornejo/jquery-cropbox"
+  }],
+  "license": "MIT",
+  "minimum-stability": "dev"
+}

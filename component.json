@@ -1,0 +1,10 @@
+{
+  "name": "jquery-cropbox",
+  "repo": "monstrum/jquery-cropbox",
+  "version": "0.1.9",
+  "description": "Image Editor in standard jQuery plugin Structure",
+  "scripts": [ "dist/jquery.cropbox.js" ],
+  "styles": [ "dist/jquery.cropbox.css" ],
+  "dependencies": { },
+  "license": "MIT"
+}
